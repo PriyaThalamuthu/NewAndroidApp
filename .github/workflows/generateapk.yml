@@ -1,10 +1,8 @@
-name: Build & Publish Debug APK
-
+name: Demo Notification job
 on:
  push:
   branches:
-   - main
-   
+   - main  
 jobs:
   build:
     runs-on: ubuntu-latest
