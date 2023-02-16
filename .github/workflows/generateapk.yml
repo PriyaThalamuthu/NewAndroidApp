@@ -10,7 +10,7 @@ jobs:
       - run: echo "Starting GitHub Actions Job"
       - uses: cinotify/github-action@main
         with:
-          to: 'srinivasan@vthink.co.in'
+          to: 'mohammedirfan@vthink.co.in'
           subject: 'S3 Bucket Updated'
           body: 'This is a notification from GitHub actions.'
   
