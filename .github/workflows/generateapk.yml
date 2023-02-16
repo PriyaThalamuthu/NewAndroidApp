@@ -11,6 +11,6 @@ jobs:
       - uses: cinotify/github-action@main
         with:
           to: 'jeyapriya@vthink.co.in'
-          subject: 'building main'
+          subject: 'S3 Bucket Updated'
           body: 'This is a notification from GitHub actions.'
   
